@@ -1,0 +1,11 @@
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\bin\Debug\TERMINATOR.exe.config
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\bin\Debug\TERMINATOR.exe
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\bin\Debug\TERMINATOR.pdb
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.Main.resources
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.Properties.Resources.resources
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.csproj.GenerateResource.cache
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.exe
+C:\Users\Awire\source\repos\TERMINATOR\TERMINATOR\obj\Debug\TERMINATOR.pdb
